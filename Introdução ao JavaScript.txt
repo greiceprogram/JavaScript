@@ -1,0 +1,40 @@
+JavaScript↓
+
+GitHub(stebsnusch)
+
+1-O que é JavaScript?
+Suas Aplicações na vida Real e no Mercado de trabalho.
+
+2-Recursos básicos da linguagem.
+
+3-Console
+
+4-Javascript numa página da Web
+
+5-Atividade Prática
+
+6-Frameworks e mercado de trabalho.
+
+___________________________________________________
+
+Introdução ao JavaScript↓ criado em 1995.
+
+
+JavaScript é uma linguagem interpretada, (rodada em tempo real, código disponibilizado instantaneamente).Baseada em protótipos são bases de estruturas de dados do JavaScript, um conjunto de funções em comum, Multiparadigma.
+
+Comumente utilizada em aplicações web client-side→ parte da aplicação que tem interação com o usuário.
+
+Segue o padrão ECMAScript: Um padrão para varias linguagens.
+
+Evolução:
+
+ECMAScript 1 First edition 1997
+ECMAScript 2 Editorial changes only 1998
+ECMAScript 3 Regular Expressions. try/catch 1999
+ECMAScript 4 Never released 1999
+ECMAScript 5 "strict mode" JSON support. String-trim0. Array-isArray0.
+Array Iteration Methods. 2009
+ECMAScript 6 2015
+
+
+
